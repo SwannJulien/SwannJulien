@@ -1,3 +1,6 @@
+
+![programmer_text_2](https://user-images.githubusercontent.com/79744175/175014145-970bfea3-2234-4045-8ef5-ec94c651f48b.jpg)
+
 ### Hi there 👋
 
 🔭 I’m currently working on ...
