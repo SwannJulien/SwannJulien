@@ -6,11 +6,11 @@
 Welcome on my Github profile ! I'm glad to show you here some of the projects I worked on and to introduce myself.
 
 
-👨‍💻 I'm a junior front-end and back-end developper.
+👨‍💻 I'm a junior front-end and back-end developer.
 
 🚀 I'm currently in my second year of a 2 years computer science program in Spain called "FP Grado Superior Desarrollo de Aplicaciones Web"
 
-💼 I’m looking for a 3 months intership to put my skills into practice in a front-end environment
+💼 I’m looking for a 3 months internship to put my skills into practice as a front-end developer.
 
 👨‍🎓 During the first year of my studies I learned: 
 1. Object Oriented Programming with Java
