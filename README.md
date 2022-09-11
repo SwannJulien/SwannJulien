@@ -30,6 +30,8 @@ Welcome on my Github profile ! I'm glad to show you here some of the projects I 
 6. GIT commands
 6. Figma and Photoshop for webdesign 
 
+🗣️ I'm fluent in English 🇬🇧 Spanish 🇪🇸 and French 🇫🇷 (native)
+
 🔭 I’m currently working on some Front-End Mentor challenges to strenghed my skills in HTML/CSS/JS
 
 Feel free to contact me.
