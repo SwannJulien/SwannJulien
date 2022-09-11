@@ -3,9 +3,8 @@
 
 ### Hi there 👋
 
-Welcome on my Github profile ! I'm glad to show here some of the projects I worked on. 
+Welcome on my Github profile ! I'm glad to show you here some of the projects I worked on and to introduce myself.
 
-👉 Here you can find a small introduction about myself as well as the projects I worked on.
 
 👨‍💻 I'm a junior front-end and back-end developper.
 
