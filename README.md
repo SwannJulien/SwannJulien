@@ -11,6 +11,8 @@ Welcome on my Github profile ! I'm glad to show here some of the projects I work
 
 🚀 I'm currently in my second year of a 2 years computer science program in Spain called "FP Grado Superior Desarrollo de Aplicaciones Web"
 
+💼 I’m looking for a 3 months intership to put my skills into practice in a front-end environment
+
 👨‍🎓 During the first year of my studies I learned: 
 1. Object Oriented Programming with Java
 2. Java Database Connectivity and Swing
@@ -31,15 +33,8 @@ Welcome on my Github profile ! I'm glad to show here some of the projects I work
 
 🔭 I’m currently working on some Front-End Mentor challenges to strenghed my skills in HTML/CSS/JS
 
-👯 I’m looking to collaborate on ...
+Feel free to contact me.
+Cheers !
 
-🤔 I’m looking for help with ...
-
-💬 Ask me about ...
-
-📫 How to reach me: ...
-
-😄 Pronouns: ...
-
-⚡ Fun fact: ...
+Swann
 
