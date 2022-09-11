@@ -12,7 +12,7 @@ Welcome on my Github profile ! I'm glad to show you here some of the projects I 
 
 💼 I’m looking for a 3 months internship to put my skills into practice as a front-end developer.
 
-👨‍🎓 During the first year of my studies I learned: 
+👨‍🎓 Things I learned during my first year of studies: 
 1. Object Oriented Programming with Java
 2. Java Database Connectivity and Swing
 3. Oracle SQL: DDL, DML, DCL
