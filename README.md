@@ -6,11 +6,11 @@
 Welcome on my Github profile ! I'm glad to show you here some of the projects I worked on and to introduce myself.
 
 
-👨‍💻 I'm a junior front-end and back-end developer.
+👨‍💻 I'm a junior Fullstack developper.
 
-🚀 I'm currently in my second year of a 2 years computer science program in Spain called "FP Grado Superior Desarrollo de Aplicaciones Web"
+🚀 I've just finished an Associate Degree in Computer Science called "FP Grado Superior Desarrollo de Aplicaciones Web"
 
-💼 I’m looking for a 3 months internship to put my skills into practice as a front-end developer.
+💼 Currently looking for a 3 months internship to put my skills into practice.
 
 👨‍🎓 Things I learned during my first year of studies: 
 1. Object Oriented Programming with Java
@@ -34,7 +34,7 @@ Welcome on my Github profile ! I'm glad to show you here some of the projects I 
 
 🔭 I’m currently working on some Front-End Mentor challenges to strenghed my skills in HTML/CSS/JS
 
-Feel free to contact me.
+Looking forward to talk to you.
 Cheers !
 
 Swann
