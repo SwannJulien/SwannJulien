@@ -10,29 +10,33 @@ Welcome on my Github profile ! I'm glad to show you here some of the projects I 
 
 🚀 I've just finished an Associate Degree in Computer Science called "FP Grado Superior Desarrollo de Aplicaciones Web"
 
-💼 Currently looking for a 3 months internship to put my skills into practice.
+📣 Currently looking for a 3 months internship to put my skills into practice.
 
-👨‍🎓 Things I learned during my first year of studies: 
+👨‍🎓 **Things I learned during my studies:** 
 1. Object Oriented Programming with Java
-2. Java Database Connectivity and Swing
-3. Oracle SQL: DDL, DML, DCL
-4. PL/SQL programming
-5. XML, HTML, CSS
-6. Linux and Windows 10 OS
+2. Database creation and manipulation: SQL (DDL, DML, DCL)
+3. Frontend development: HTML, CSS, JS
+4. Frontend framework: Angular
+5. Backend development: PHP
+6. HTTP/HTTPS/REST/AJAX/CRUD
+7. PL/SQL programming
+9. Linux command line and Windows 10 
 
-🌱 Things I learned by myself:
+🌱 **Things I learned by myself:**
 1. Advanced CSS properties: flex, grid, custom properties
 2. BEM naming convention
 3. CUBE-CSS methodology
 4. SASS
 4. Basics of accesibility
-5. Basics of Javascript
 6. GIT commands
-6. Figma and Photoshop for webdesign 
+6. Figma and Photoshop for webdesign
 
-🗣️ I'm fluent in English 🇬🇧 Spanish 🇪🇸 and French 🇫🇷 (native)
+🔥 **Currently learning** 
+- REACT
+- NODE.JS 
+- Doing some Frontend Mentor challenges
 
-🔭 I’m currently working on some Front-End Mentor challenges to strenghed my skills in HTML/CSS/JS
+🗣️ French 🇫🇷 native speaker, I'm fluent in English 🇬🇧 and Spanish 🇪🇸 
 
 Looking forward to talk to you.
 Cheers !
