@@ -17,18 +17,14 @@
 4. Frontend framework: Angular
 5. Backend development: PHP
 6. HTTP/HTTPS/REST/AJAX/CRUD
-7. PL/SQL programming
-9. Linux command line and Windows 10 
+7. Linux command line and Windows 10 
 
 
 🌱 **Things I learned by myself:**
 1. Advanced CSS properties: flex, grid, custom properties
 2. BEM naming convention
-3. CUBE-CSS methodology
-4. SASS
-4. Basics of accesibility
-6. GIT commands
-6. Figma and Photoshop for webdesign
+3. GIT commands
+4. Figma and Photoshop for webdesign
 
 🔥 **Currently learning** 
 - REACT
