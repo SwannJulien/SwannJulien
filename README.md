@@ -7,7 +7,7 @@
 
 🚀 Just finished an Associate Degree in Computer Science in Spain: ["Grado Superior Desarrollo de Aplicaciones Web"](https://www.fp-informatica.com/daw-desarrollo-de-aplicaciones-web/)
 
-📣 Currently looking for a 3 months internship to put my skills into practice
+📣 Currently looking for a 3 months internship starting in september 2023 to put my skills into practice
 
 
 👨‍🎓 **Things I learned during my studies:** 
