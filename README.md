@@ -34,6 +34,7 @@
 🗣️ French native speaker 🇫🇷, I'm fluent in English 🇬🇧 and Spanish 🇪🇸 
 
 Looking forward to talking to you.
+
 Cheers !
 
 Swann
