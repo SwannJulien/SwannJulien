@@ -8,7 +8,7 @@ Welcome on my Github profile ! I'm glad to show you here some of the projects I 
 
 👨‍💻 I'm a junior Fullstack developper.
 
-🚀 I've just finished an Associate Degree in Computer Science called "FP Grado Superior Desarrollo de Aplicaciones Web"
+🚀 I've just finished an Associate Degree in Computer Science in Spain called "Grado Superior Desarrollo de Aplicaciones Web"
 
 📣 Currently looking for a 3 months internship to put my skills into practice.
 
