@@ -1,16 +1,13 @@
 
 ![programmer_text_2](https://user-images.githubusercontent.com/79744175/175014145-970bfea3-2234-4045-8ef5-ec94c651f48b.jpg)
 
-### Hi there 👋
+# Hi, I'm Swann Julien 👋
 
-Welcome on my Github profile ! I'm glad to show you here some of the projects I worked on and to introduce myself.
+👨‍💻 Junior Fullstack developper
 
+🚀 Just finished an Associate Degree in Computer Science in Spain called ["Grado Superior Desarrollo de Aplicaciones Web"](https://www.fp-informatica.com/daw-desarrollo-de-aplicaciones-web/)
 
-👨‍💻 I'm a junior Fullstack developper.
-
-🚀 I've just finished an Associate Degree in Computer Science in Spain called "Grado Superior Desarrollo de Aplicaciones Web"
-
-📣 Currently looking for a 3 months internship to put my skills into practice.
+📣 Currently looking for a 3 months internship to put my skills into practice
 
 
 👨‍🎓 **Things I learned during my studies:** 
