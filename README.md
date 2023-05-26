@@ -11,10 +11,10 @@
 
 
 👨‍🎓 **Things I learned during my studies:** 
-1. Object Oriented Programming with Java
+1. Object Oriented Programming with JAVA
 2. Database creation and manipulation: SQL (DDL, DML, DCL)
 3. Frontend development: HTML, CSS, JS
-4. Frontend framework: Angular
+4. Frontend framework: ANGULAR
 5. Backend development: PHP
 6. HTTP/HTTPS/REST/AJAX/CRUD
 7. Linux command line and Windows 10 
