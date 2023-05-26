@@ -12,6 +12,7 @@ Welcome on my Github profile ! I'm glad to show you here some of the projects I 
 
 📣 Currently looking for a 3 months internship to put my skills into practice.
 
+
 👨‍🎓 **Things I learned during my studies:** 
 1. Object Oriented Programming with Java
 2. Database creation and manipulation: SQL (DDL, DML, DCL)
@@ -21,6 +22,7 @@ Welcome on my Github profile ! I'm glad to show you here some of the projects I 
 6. HTTP/HTTPS/REST/AJAX/CRUD
 7. PL/SQL programming
 9. Linux command line and Windows 10 
+
 
 🌱 **Things I learned by myself:**
 1. Advanced CSS properties: flex, grid, custom properties
