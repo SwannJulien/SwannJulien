@@ -38,7 +38,7 @@ Welcome on my Github profile ! I'm glad to show you here some of the projects I 
 - NODE.JS 
 - Doing some Frontend Mentor challenges
 
-🗣️ French 🇫🇷 native speaker, I'm fluent in English 🇬🇧 and Spanish 🇪🇸 
+🗣️ French native speaker 🇫🇷, I'm fluent in English 🇬🇧 and Spanish 🇪🇸 
 
 Looking forward to talk to you.
 Cheers !
