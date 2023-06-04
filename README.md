@@ -27,9 +27,9 @@
 4. Figma and Photoshop for webdesign
 
 🔥 **Currently learning** 
-- REACT
-- NODE.JS 
-- Doing some Frontend Mentor challenges
+1. REACT
+2. NODE.JS 
+3. Doing some Frontend Mentor challenges
 
 🗣️ French native speaker 🇫🇷, I'm fluent in English 🇬🇧 and Spanish 🇪🇸 
 
