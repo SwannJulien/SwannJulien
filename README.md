@@ -3,35 +3,42 @@
 
 # Hi, I'm Swann Julien 👋
 
-👨‍💻 Junior Fullstack developper
+👨‍💻 Fullstack developper based in Malaga, Spain
 
-🚀 Just finished an Associate Degree in Computer Science in Spain: ["Grado Superior Desarrollo de Aplicaciones Web"](https://www.fp-informatica.com/daw-desarrollo-de-aplicaciones-web/)
+🚀 Working as Developer Analyst in the Banking industry
 
-📣 Currently looking for a 3 months internship starting in september 2023 to put my skills into practice
+💻 **Tech stack I use in a daily basis** 
+1. Java
+2. Spring ecosystem
+3. Lit Web Components
+4. PostgreSQL
 
+🧪 **Testing stack**
+1. Junit
+2. Mockito
+3. Cucumber
+4. MochaJS
+5. Selenium WebDriver
 
-👨‍🎓 **Things I learned during my studies:** 
-1. Object Oriented Programming with JAVA
-2. Database creation and manipulation: SQL (DDL, DML, DCL)
-3. Frontend development: HTML, CSS, JS
-4. Frontend framework: ANGULAR
-5. Backend development: PHP
-6. HTTP/HTTPS/REST/AJAX/CRUD
-7. Linux command line and Windows 10 
+⚙️ **DevOps stack** 
+1. Git
+2. Jenkins
+3. Sonar
+4. Docker y Docker compose
+5. AWS (Cloud Practitioner certified)
 
+🗣️ **Languages I speak**
+- 🇫🇷 French native speaker
+- 🇬🇧 fluent in English
+- 🇪🇸 Work and live in Spain
 
-🌱 **Things I learned by myself:**
-1. Advanced CSS properties: flex, grid, custom properties
-2. BEM naming convention
-3. GIT commands
-4. Figma and Photoshop for webdesign
+🔥 **Project I work with**
 
-🔥 **Currently learning** 
-1. REACT
-2. NODE.JS 
-3. Doing some Frontend Mentor challenges
+A library management system build with Spring, Lit and PostgeSQL with some cool features:
 
-🗣️ French native speaker 🇫🇷, I'm fluent in English 🇬🇧 and Spanish 🇪🇸 
+- Buit-in scanner to automatically add a book to the DB just by scaning its barecode
+- Generation of a QR Code for every new copy of a book
+- IA assistance for common tasks 
 
 Looking forward to talking to you.
 
