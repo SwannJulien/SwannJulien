@@ -5,7 +5,7 @@
 
 👨‍💻 Fullstack developper based in Malaga, Spain
 
-🚀 Working as Developer Analyst in the Banking industry
+🚀 Working as a Developer Analyst in the Banking industry
 
 💻 **Tech stack I use in a daily basis** 
 1. Java
@@ -29,7 +29,7 @@
 
 🗣️ **Languages I speak**
 - 🇫🇷 French native speaker
-- 🇬🇧 fluent in English
+- 🇬🇧 Fluent in English
 - 🇪🇸 Work and live in Spain
 
 🔥 **Project I work with**
