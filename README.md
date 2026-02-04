@@ -32,7 +32,7 @@
 - 🇬🇧 Fluent in English
 - 🇪🇸 Work and live in Spain
 
-🔥 **Project I work with**
+🔥 **Project I'm working on**
 
 A library management system build with Spring, Lit and PostgeSQL with some cool features:
 
